@@ -15,7 +15,7 @@ const AppBar = () => {
         </h1>
         <span>
           <a
-            href="https://github.com/sirridemirtas/slideshare-downloader"
+            href="#"
             target="_blank"
             className="link"
           >
